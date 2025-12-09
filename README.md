@@ -31,4 +31,4 @@ dbt-postgres
 
 PostgreSQL no AWS RDS
 
-Git 
+Git (recomendado)
